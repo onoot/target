@@ -1560,8 +1560,5 @@
       "name": "InvalidMint",
       "msg": "Invalid mint supplied"
     }
-  ],
-  "metadata": {
-    "address": "6DYsJbtQzaW3WKiWE4Ai9oDcnCPyDZHVRArDeAAWYg5d"
-  }
+  ]
 }

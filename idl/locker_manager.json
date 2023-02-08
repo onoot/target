@@ -650,8 +650,5 @@
       "name": "InvalidSchedule",
       "msg": "Invalid locker schedule given."
     }
-  ],
-  "metadata": {
-    "address": "81xYZSmJTvL9nYCxH2btBq1ksdTuop791cDjaecJ5RUn"
-  }
+  ]
 }

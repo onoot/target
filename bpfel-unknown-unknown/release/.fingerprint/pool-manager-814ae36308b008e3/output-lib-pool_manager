@@ -1,0 +1,1 @@
+Error: Function _ZN12pool_manager9__private8__global22claim_reward_to_locker17h02ec9c9d6ae4e7f7E Stack offset of 4136 exceeded max offset of 4096 by 40 bytes, please minimize large stack variables

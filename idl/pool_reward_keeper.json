@@ -258,8 +258,5 @@
       "name": "InvalidRewardKeeperMetadata",
       "msg": "The given staker account does not match the reward keeper metadata."
     }
-  ],
-  "metadata": {
-    "address": "DbeXNM8GVHMEeRWePsq4BtsBVtWT3J7aG1SgP4c9zZqJ"
-  }
+  ]
 }
